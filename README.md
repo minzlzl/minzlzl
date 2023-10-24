@@ -1,7 +1,7 @@
 # Profile
 
 ```
-🖐 Web Publisher - minzlzl 🖐
+🖐 Web Publisher minzlzl 🖐
 ```
 
 # Use Language
